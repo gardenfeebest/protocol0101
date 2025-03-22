@@ -1,7 +1,7 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
 
-#EXTINF:-1 tvg-id="1" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS | Filmes e Series",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS | Filmes e Series",AXN
 https://livst.site/axn/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT SERIES
+#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT SERIES
 https://livst.site/tntseries/index.m3u8

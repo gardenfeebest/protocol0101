@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS | Filmes e Series",AXN
-https://livst.site/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT SERIES
-https://livst.site/tntseries/index.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | Abertos",SBT
+https://alanza.iptv2022.com/sh/sbt/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3

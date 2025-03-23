@@ -30,7 +30,7 @@ https://tvsmarters.org/tcfun/tracks-v1a1l1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE TOUCH
 https://tvsmarters.org/tctouch/tracks-v1a1l1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/512px-Star_Channel_2023.svg.png?20240207052745" group-title="CANAIS | Filmes e Series",STAR CHANNEL
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL (canal removido)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/512px-Star_Channel_2023.svg.png?20240207052745" group-title="CANAIS | Filmes e Series",STAR CHANNEL (canal removido)
 https://tvsmarters.org/starchannel/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS | Filmes e Series",SONY CHANNEL

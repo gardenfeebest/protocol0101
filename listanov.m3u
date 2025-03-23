@@ -30,6 +30,9 @@ https://tvsmarters.org/tcfun/tracks-v1a1l1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE TOUCH
 https://tvsmarters.org/tctouch/tracks-v1a1l1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/512px-Star_Channel_2023.svg.png?20240207052745" group-title="CANAIS | Filmes e Series",STAR CHANNEL
+https://tvsmarters.org/starchannel/tracks-v1a1l1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | Abertos",SBT
 https://alanza.iptv2022.com/sh/sbt/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 

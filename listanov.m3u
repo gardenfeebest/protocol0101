@@ -6,8 +6,8 @@ https://tvsmarters.org/axn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT SERIES
 https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT
-https://s2.choraporco.icu/token/184dd4e7f72f38ef642d72c2223fded5/nossoplayer.m3u8
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png?20160527181130" group-title="CANAIS | Filmes e Series",TNT
+https://tvsmarters.org/tnt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS | Filmes e Series",MEGAPIX
 https://tvsmarters.org/megapix/tracks-v1a1/mono.ts.m3u8

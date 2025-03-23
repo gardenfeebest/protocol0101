@@ -27,5 +27,5 @@ https://tvsmarters.org/warner/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="CANAIS | Variedades",COMEDY CENTRAL
 https://s2.choraporco.icu/token/184dd4e7f72f38ef642d72c2223fded5/nossoplayer.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="O BRINQUEDO ASSASINO" tvg-logo="" group-title="FILMES | Terror",O BRINQUEDO ASSASINO
+#EXTINF:-1,O BRINQUEDO ASSASINO
 https://cdnst19.tokyvideo.com/videos/299/299919/mp4/5bc7a4408b03bcd41b8140ebb2a3f25f09adedadd2bd3c8455682b0bac7b38ad.mp4?secure=-56RAUBXpYNkSzkFrHqgcQ%3D%3D%2C1742826805

@@ -12,6 +12,9 @@ https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CANAIS | Filmes e Series",CINEMAX
 https://tvsmarters.org/cinemax/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="CANAIS | Filmes e Series",STUDIO UNIVERSAL
+https://tvsmarters.org/studiouniversal/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://img.favpng.com/17/5/17/space-logo-television-channel-esporte-interativo-png-favpng-VVxR657Qh8Nb2bcMZqQ3QEru0.jpg" group-title="CANAIS | Filmes e Series",SPACE
 https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
 

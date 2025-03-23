@@ -12,6 +12,12 @@ https://tvsmarters.org/tnt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS | Filmes e Series",MEGAPIX
 https://tvsmarters.org/megapix/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Telecine_Premium_%282021%29.png/657px-Telecine_Premium_%282021%29.png?20240922000427" group-title="CANAIS | Filmes e Series",TELECINE PREMIUM
+https://tvsmarters.org/tcpremium/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="CANAIS | Filmes e Series",TELECINE ACTION
+https://tvsmarters.org/tcaction/tracks-v1a1l1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | Abertos",SBT
 https://alanza.iptv2022.com/sh/sbt/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 

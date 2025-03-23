@@ -18,6 +18,18 @@ https://tvsmarters.org/tcpremium/tracks-v1a1l1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="CANAIS | Filmes e Series",TELECINE ACTION
 https://tvsmarters.org/tcaction/tracks-v1a1l1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Cult_2019.png" group-title="CANAIS | Filmes e Series",TELECINE CULT
+https://tvsmarters.org/tccult/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE PIPOCA
+https://tvsmarters.org/tcpipoca/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE FUN
+https://tvsmarters.org/tcfun/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE TOUCH
+https://tvsmarters.org/tctouch/tracks-v1a1l1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | Abertos",SBT
 https://alanza.iptv2022.com/sh/sbt/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 

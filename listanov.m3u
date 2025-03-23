@@ -57,6 +57,9 @@ https://tvsmarters.org/hbofamily/tracks-v1a1l1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="CANAIS | Filmes e Series","HBO MUNDI
 https://tvsmarters.org/hbopmundi/tracks-v1a1l1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="CANAIS | Variedades","LIFETIME
+https://tvsmarters.org/lifetime/tracks-v1a1l1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | Abertos",SBT
 https://alanza.iptv2022.com/sh/sbt/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 

@@ -12,6 +12,12 @@ https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/537/26/png-clipart-paramount-s-paramount-channel-television-channel-film-paramount-network-logo-television-blue.png" group-title="CANAIS | Filmes e Series",PARAMOUNT CHANNEL
 https://tvsmarters.org/paramountplus/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2008.png" group-title="CANAIS | Variedades",HISTORY
+https://tvsmarters.org/history/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="HISTORY2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CANAIS | Variedades",HISTORY2
+https://tvsmarters.org/history2/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CANAIS | Filmes e Series",CINEMAX
 https://tvsmarters.org/cinemax/tracks-v1a1/mono.ts.m3u8
 

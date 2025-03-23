@@ -9,6 +9,9 @@ https://lvstr.cfd/viva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="CANAIS | Filmes e Series",AMC
 https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/537/26/png-clipart-paramount-s-paramount-channel-television-channel-film-paramount-network-logo-television-blue.png" group-title="CANAIS | Filmes e Series",PARAMOUNT CHANNEL
+https://tvsmarters.org/paramountplus/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CANAIS | Filmes e Series",CINEMAX
 https://tvsmarters.org/cinemax/tracks-v1a1/mono.ts.m3u8
 

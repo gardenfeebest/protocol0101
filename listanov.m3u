@@ -12,6 +12,9 @@ https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/537/26/png-clipart-paramount-s-paramount-channel-television-channel-film-paramount-network-logo-television-blue.png" group-title="CANAIS | Filmes e Series",PARAMOUNT CHANNEL
 https://tvsmarters.org/paramountplus/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://w7.pngwing.com/pngs/897/94/png-transparent-paramount-s-paramount-channel-television-channel-viacom-international-media-networks-viacom-media-networks-paramount-parks-television-blue-text-thumbnail.png" group-title="CANAIS | Filmes e Series",PARAMOUNT NETWORK
+http://supersonictv.live:8080/812493/376688/85059
+
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2008.png" group-title="CANAIS | Variedades",HISTORY
 https://tvsmarters.org/history/tracks-v1a1/mono.ts.m3u8
 

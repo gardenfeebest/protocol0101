@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS | Filmes e Series",AXN
 https://tvsmarters.org/axn/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="CANAIS | Filmes e Series",AMC
+https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CANAIS | Filmes e Series",CINEMAX
+https://tvsmarters.org/cinemax/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://img.favpng.com/17/5/17/space-logo-television-channel-esporte-interativo-png-favpng-VVxR657Qh8Nb2bcMZqQ3QEru0.jpg" group-title="CANAIS | Filmes e Series",SPACE
+https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT SERIES HD
 https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
 

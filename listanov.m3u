@@ -39,6 +39,9 @@ https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png?20160527181130" group-title="CANAIS | Filmes e Series",TNT HD
 https://tvsmarters.org/tnt/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/608px-Logo_TNT_Novelas.png" group-title="CANAIS | Filmes e Series",TNT NOVELAS
+https://tvsmarters.org/tntnovelas/tracks-v1a1a2/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS | Filmes e Series",MEGAPIX
 https://tvsmarters.org/megapix/tracks-v1a1/mono.ts.m3u8
 

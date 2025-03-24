@@ -102,7 +102,7 @@ http://supersonictv.live:8080/812493/376688/85097
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS | Variedades","LIFETIME
 https://tvsmarters.org/lifetime/tracks-v1a1l1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Globo_2021_%28Orange%29.svg/1200px-Globo_2021_%28Orange%29.svg.png" group-title="CANAIS | Abertos",GLOBO SP
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Globo_2021_%28Orange%29.svg/1200px-Globo_2021_%28Orange%29.svg.png" group-title="CANAIS | Abertos",GLOBO SP
 https://tvsmarters.org/globosp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | Abertos",RECORD SP

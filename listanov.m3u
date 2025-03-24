@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml" x-tvg-url=https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml""
+#EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml" x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
 
 #EXTINF:-1 tvg-id=AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS | Filmes e Series",AXN
 https://tvsmarters.org/axn/tracks-v1a1/mono.ts.m3u8

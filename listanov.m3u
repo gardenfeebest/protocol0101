@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="https://m3u4u.com"
+#EXTM3U x-tvg-url="" url-tvg=""
 
-#EXTINF:-1 tvg-id="AXN(Portuguese).br" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS | Filmes e Series",AXN
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS | Filmes e Series",AXN
 https://tvsmarters.org/axn/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://w7.pngwing.com/pngs/582/591/png-transparent-canal-viva-television-channel-pay-television-globosat-canal-purple-television-angle.png" group-title="CANAIS | Variedades",VIVA

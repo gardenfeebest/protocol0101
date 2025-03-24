@@ -43,7 +43,7 @@ https://tvsmarters.org/tnt/tracks-v1a1/mono.ts.m3u8
 https://tvsmarters.org/tntnovelas/tracks-v1a1a2/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS | Filmes e Series",MEGAPIX
-https://tvsmarters.org/megapix/tracks-v1a1/mono.ts.m3u8
+http://supersonictv.live:8080/812493/376688/85047
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Telecine_Premium_%282021%29.png/657px-Telecine_Premium_%282021%29.png?20240922000427" group-title="CANAIS | Filmes e Series",TELECINE PREMIUM
 https://tvsmarters.org/tcpremium/tracks-v1a1l1/mono.ts.m3u8

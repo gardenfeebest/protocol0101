@@ -67,7 +67,7 @@ https://tvsmarters.org/tctouch/tracks-v1a1l1/mono.ts.m3u8
 https://tvsmarters.org/starchannel/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS | Filmes e Series",SONY CHANNEL
-https://tvsmarters.org/starchannel/tracks-v1a1/mono.ts.m3u8
+https://tvsmarters.org/sonychannel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png?20220630112314" group-title="CANAIS | Filmes e Series",HBO
 https://tvsmarters.org/hbo/tracks-v1a1l1/mono.ts.m3u8

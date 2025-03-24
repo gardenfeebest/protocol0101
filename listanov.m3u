@@ -1,73 +1,19 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml" x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
 
-#EXTINF:-1 tvg-id=AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS | Filmes e Series",AXN
-https://tvsmarters.org/axn/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://w7.pngwing.com/pngs/582/591/png-transparent-canal-viva-television-channel-pay-television-globosat-canal-purple-television-angle.png" group-title="CANAIS | Variedades",VIVA
-http://supersonictv.live:8080/812493/376688/85121
-
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="CANAIS | Filmes e Series",AMC
 https://tvsmarters.org/amc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/537/26/png-clipart-paramount-s-paramount-channel-television-channel-film-paramount-network-logo-television-blue.png" group-title="CANAIS | Filmes e Series",PARAMOUNT CHANNEL
-https://tvsmarters.org/paramountplus/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://w7.pngwing.com/pngs/897/94/png-transparent-paramount-s-paramount-channel-television-channel-viacom-international-media-networks-viacom-media-networks-paramount-parks-television-blue-text-thumbnail.png" group-title="CANAIS | Filmes e Series",PARAMOUNT NETWORK
-http://supersonictv.live:8080/812493/376688/85059
-
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2008.png" group-title="CANAIS | Variedades",HISTORY
-https://tvsmarters.org/history/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="HISTORY2" tvg-name="HISTORY2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CANAIS | Variedades",HISTORY2
-https://tvsmarters.org/history2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id=AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="CANAIS | Filmes e Series",AXN
+https://tvsmarters.org/axn/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CANAIS | Filmes e Series",CINEMAX
 https://tvsmarters.org/cinemax/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="CANAIS | Filmes e Series",STUDIO UNIVERSAL
-https://tvsmarters.org/studiouniversal/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="CANAIS | Variedades",COMEDY CENTRAL
+http://supersonictv.live:8080/812493/376688/84954
 
-#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="CANAIS | Filmes e Series",UNIVERSAL
-https://tvsmarters.org/universaltv/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://img.favpng.com/17/5/17/space-logo-television-channel-esporte-interativo-png-favpng-VVxR657Qh8Nb2bcMZqQ3QEru0.jpg" group-title="CANAIS | Filmes e Series",SPACE
-https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT SERIES HD
-https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png?20160527181130" group-title="CANAIS | Filmes e Series",TNT HD
-https://tvsmarters.org/tnt/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/608px-Logo_TNT_Novelas.png" group-title="CANAIS | Filmes e Series",TNT NOVELAS
-https://tvsmarters.org/tntnovelas/tracks-v1a1a2/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS | Filmes e Series",MEGAPIX
-http://supersonictv.live:8080/812493/376688/85047
-
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Telecine_Premium_%282021%29.png/657px-Telecine_Premium_%282021%29.png?20240922000427" group-title="CANAIS | Filmes e Series",TELECINE PREMIUM
-https://tvsmarters.org/tcpremium/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="CANAIS | Filmes e Series",TELECINE ACTION
-https://tvsmarters.org/tcaction/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Cult_2019.png" group-title="CANAIS | Filmes e Series",TELECINE CULT
-https://tvsmarters.org/tccult/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE PIPOCA
-https://tvsmarters.org/tcpipoca/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE FUN
-https://tvsmarters.org/tcfun/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE TOUCH
-https://tvsmarters.org/tctouch/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/512px-Star_Channel_2023.svg.png?20240207052745" group-title="CANAIS | Filmes e Series",STAR CHANNEL
-https://tvsmarters.org/starchannel/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS | Filmes e Series",SONY CHANNEL
-https://tvsmarters.org/sonychannel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Globo_2021_%28Orange%29.svg/1200px-Globo_2021_%28Orange%29.svg.png" group-title="CANAIS | Abertos",GLOBO SP
+https://tvsmarters.org/globosp/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png?20220630112314" group-title="CANAIS | Filmes e Series",HBO
 https://tvsmarters.org/hbo/tracks-v1a1l1/mono.ts.m3u8
@@ -75,35 +21,44 @@ https://tvsmarters.org/hbo/tracks-v1a1l1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANAIS | Filmes e Series",HBO2
 https://tvsmarters.org/hbo2/tracks-v1a1l1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS | Filmes e Series",HBO SIGNATURE
-https://tvsmarters.org/hbosignature/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="CANAIS | Filmes e Series",HBO POP
-https://tvsmarters.org/hbopop/tracks-v1a1l1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="CANAIS | Filmes e Series",HBO XTREME
-https://tvsmarters.org/hboxtreme/tracks-v1a1l1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS | Filmes e Series",HBO FAMILY
 https://tvsmarters.org/hbofamily/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="CANAIS | Filmes e Series","HBO MUNDI
 https://tvsmarters.org/hbomundi/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="CANAIS | Filmes e Series",HBO POP
+https://tvsmarters.org/hbopop/tracks-v1a1l1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | Filmes e Series","HBO+
 https://new.ejaculacaoretardada.site/hboplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="CANAIS | Filmes e Series",HBO SIGNATURE
+https://tvsmarters.org/hbosignature/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="CANAIS | Filmes e Series",HBO XTREME
+https://tvsmarters.org/hboxtreme/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2008.png" group-title="CANAIS | Variedades",HISTORY
+https://tvsmarters.org/history/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="HISTORY2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CANAIS | Variedades",HISTORY2
+https://tvsmarters.org/history2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ID HD" tvg-name="INVESTIGACAO DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="CANAIS | Filmes e Series","INVESTIGACAO DISCOVERY
 https://tvsmarters.org/discoveryid/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="CANAIS | Filmes e Series","SYFY
-http://supersonictv.live:8080/812493/376688/85097
-
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS | Variedades","LIFETIME
 https://tvsmarters.org/lifetime/tracks-v1a1l1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Globo_2021_%28Orange%29.svg/1200px-Globo_2021_%28Orange%29.svg.png" group-title="CANAIS | Abertos",GLOBO SP
-https://tvsmarters.org/globosp/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS | Filmes e Series",MEGAPIX
+http://supersonictv.live:8080/812493/376688/85047
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://e7.pngegg.com/pngimages/537/26/png-clipart-paramount-s-paramount-channel-television-channel-film-paramount-network-logo-television-blue.png" group-title="CANAIS | Filmes e Series",PARAMOUNT CHANNEL
+https://tvsmarters.org/paramountplus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://w7.pngwing.com/pngs/897/94/png-transparent-paramount-s-paramount-channel-television-channel-viacom-international-media-networks-viacom-media-networks-paramount-parks-television-blue-text-thumbnail.png" group-title="CANAIS | Filmes e Series",PARAMOUNT NETWORK
+http://supersonictv.live:8080/812493/376688/85059
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS | Abertos",RECORD SP
 https://tvsmarters.org/recordsp/tracks-v1a1/mono.ts.m3u8
@@ -111,8 +66,53 @@ https://tvsmarters.org/recordsp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS | Abertos",SBT
 https://alanza.iptv2022.com/sh/sbt/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANAIS | Filmes e Series",SONY CHANNEL
+https://tvsmarters.org/sonychannel/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://img.favpng.com/17/5/17/space-logo-television-channel-esporte-interativo-png-favpng-VVxR657Qh8Nb2bcMZqQ3QEru0.jpg" group-title="CANAIS | Filmes e Series",SPACE
+https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/512px-Star_Channel_2023.svg.png?20240207052745" group-title="CANAIS | Filmes e Series",STAR CHANNEL
+https://tvsmarters.org/starchannel/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="CANAIS | Filmes e Series",STUDIO UNIVERSAL
+https://tvsmarters.org/studiouniversal/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="CANAIS | Filmes e Series","SYFY
+http://supersonictv.live:8080/812493/376688/85097
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="CANAIS | Filmes e Series",TELECINE ACTION
+https://tvsmarters.org/tcaction/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Cult_2019.png" group-title="CANAIS | Filmes e Series",TELECINE CULT
+https://tvsmarters.org/tccult/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE FUN
+https://tvsmarters.org/tcfun/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE PIPOCA
+https://tvsmarters.org/tcpipoca/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Telecine_Premium_%282021%29.png/657px-Telecine_Premium_%282021%29.png?20240922000427" group-title="CANAIS | Filmes e Series",TELECINE PREMIUM
+https://tvsmarters.org/tcpremium/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="CANAIS | Filmes e Series",TELECINE TOUCH
+https://tvsmarters.org/tctouch/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png?20160527181130" group-title="CANAIS | Filmes e Series",TNT HD
+https://tvsmarters.org/tnt/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/608px-Logo_TNT_Novelas.png" group-title="CANAIS | Filmes e Series",TNT NOVELAS
+https://tvsmarters.org/tntnovelas/tracks-v1a1a2/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT SERIES HD
+https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="CANAIS | Filmes e Series",UNIVERSAL
+https://tvsmarters.org/universaltv/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://w7.pngwing.com/pngs/582/591/png-transparent-canal-viva-television-channel-pay-television-globosat-canal-purple-television-angle.png" group-title="CANAIS | Variedades",VIVA
+http://supersonictv.live:8080/812493/376688/85121
+
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CANAIS | Filmes e Series",WARNER CHANNEL
 https://tvsmarters.org/warner/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="CANAIS | Variedades",COMEDY CENTRAL
-http://supersonictv.live:8080/812493/376688/84954

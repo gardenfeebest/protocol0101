@@ -116,3 +116,6 @@ http://supersonictv.live:8080/812493/376688/85121
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CANAIS | Filmes e Series",WARNER CHANNEL
 https://tvsmarters.org/warner/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Crepusculo" tvg-name="Crepusculo" tvg-logo="" group-title="FILMES | Temporarios",Crepusculo
+https://cdnst42.tokyvideo.com/videos/415/415686/mp4/c2bac7f5162708544e224be83e249319088b1e0feedb917159cc66993d9e926f.mp4?secure=8xVR9vRn5Y6saNIoLFusHA%3D%3D%2C1743367228

@@ -103,7 +103,7 @@ https://tvsmarters.org/tctouch/tracks-v1a1l1/mono.ts.m3u8
 https://tvsmarters.org/tnt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/608px-Logo_TNT_Novelas.png" group-title="CANAIS | Filmes e Series",TNT NOVELAS
-https://tvsmarters.org/tntnovelas/tracks-v1a1a2/mono.ts.m3u8
+https://s2.choraporco.icu/fontes/nossoplayer/tntnovelas.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT SERIES HD
 https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8

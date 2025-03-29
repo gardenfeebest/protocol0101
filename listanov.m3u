@@ -119,3 +119,6 @@ https://tvsmarters.org/warner/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Crepusculo" tvg-name="Crepusculo" tvg-logo="" group-title="FILMES | Temporarios",Crepusculo
 https://cdnst29.tokyvideo.com/videos/337/337822/mp4/9467d6da789e797514dc9fd54441072324d330f439d72c97386700665a4272b3.mp4?secure=IIoju5Ea_pBYKj9EP-ZOPw%3D%3D%2C1743368692
+
+#EXTINF:-1 tvg-id="Crepusculo" tvg-name="Crepusculo Lua Nova" tvg-logo="" group-title="FILMES | Temporarios",Crepusculo Lua Nova
+https://cdnst63.tokyvideo.com/videos/511/511495/mp4/200755821ec2bcb00b12a0f498893c22630e9469ffa0e635d5fe219ff2aac368.mp4?secure=NhxwP8sj7iVCAvtR_FfkrA%3D%3D%2C1743369009

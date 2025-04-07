@@ -106,7 +106,7 @@ https://tvsmarters.org/tnt/tracks-v1a1/mono.ts.m3u8
 https://s2.choraporco.icu/fontes/nossoplayer/tntnovelas.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANAIS | Filmes e Series",TNT SERIES HD
-https://tvsmarters.org/tntseries/tracks-v1a1/mono.ts.m3u8
+http://supersonictv.live:8080/812493/376688/85109
 
 #EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Universal_Channel_2013.png" group-title="CANAIS | Filmes e Series",UNIVERSAL
 https://tvsmarters.org/universaltv/tracks-v1a1l1/mono.ts.m3u8
